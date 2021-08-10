@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ec.edu.espe.distribuidas.examenvillarreal.controller;
+
 
 import ec.edu.espe.distribuidas.examenvillarreal.model.GenAgencia;
 import ec.edu.espe.distribuidas.examenvillarreal.service.GenAgenciaService;
