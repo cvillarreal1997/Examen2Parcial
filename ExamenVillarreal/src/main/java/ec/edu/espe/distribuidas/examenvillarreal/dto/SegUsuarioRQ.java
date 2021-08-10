@@ -5,10 +5,20 @@
  */
 package ec.edu.espe.distribuidas.examenvillarreal.dto;
 
+import java.util.List;
+import lombok.Data;
+
 /**
  *
  * @author terry
  */
+@Data
 public class SegUsuarioRQ {
+    
+    private String codigoUsuario;
+
+    private List<String> codigosPerfiles;
+    
+    private String porOmision;
     
 }
